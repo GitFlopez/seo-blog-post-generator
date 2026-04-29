@@ -1,0 +1,10 @@
+{
+  "name": "seo-blog-post-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: seo-blog-post-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "content"
+  }
+}
